@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0064-minimum-path-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0091-decode-ways) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0234-palindrome-linked-list) |
@@ -333,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

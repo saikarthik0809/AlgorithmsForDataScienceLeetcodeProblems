@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0132-palindrome-partitioning-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |

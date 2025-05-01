@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0191-number-of-1-bits) |
+| [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
 ## Sorting
 |  |
 | ------- |
@@ -264,4 +266,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->

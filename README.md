@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0091-decode-ways) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0068-text-justification) |
 ## Trie
 |  |
 | ------- |

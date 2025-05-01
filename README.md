@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |

@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0050-powx-n) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0191-number-of-1-bits) |

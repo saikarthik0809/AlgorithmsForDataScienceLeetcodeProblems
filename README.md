@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0061-rotate-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0191-number-of-1-bits) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
 ## Ordered Set
 |  |

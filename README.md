@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0130-surrounded-regions) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0130-surrounded-regions) |
 ## String
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0115-distinct-subsequences) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 ## Tree
@@ -326,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
+| [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Depth-First Search
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
+| [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Greedy
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
+| [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
+| [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Trie
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
+| [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Ordered Set
 |  |
 | ------- |

@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0224-basic-calculator) |
+| [0273-integer-to-english-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0273-integer-to-english-words) |
 ## Binary Search
 |  |
 | ------- |

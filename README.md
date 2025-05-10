@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
+| [0214-shortest-palindrome](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0214-shortest-palindrome) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Dynamic Programming
@@ -431,4 +432,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

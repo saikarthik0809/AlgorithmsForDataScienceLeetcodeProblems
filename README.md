@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0224-basic-calculator) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Dynamic Programming
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Tree

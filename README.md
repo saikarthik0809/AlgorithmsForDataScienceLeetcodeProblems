@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Depth-First Search
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0068-text-justification) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Trie
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Sliding Window
 |  |
 | ------- |

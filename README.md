@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0472-concatenated-words) |
+| [0480-sliding-window-median](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0480-sliding-window-median) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0480-sliding-window-median) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Greedy
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0480-sliding-window-median) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0420-strong-password-checker) |
+| [0480-sliding-window-median](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0480-sliding-window-median) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Ordered Set
 |  |

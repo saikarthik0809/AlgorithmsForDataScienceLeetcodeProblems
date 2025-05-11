@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Graph
 |  |
 | ------- |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Geometry
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Doubly-Linked List
 |  |

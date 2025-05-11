@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0432-all-oone-data-structure) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Two Pointers
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0432-all-oone-data-structure) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Greedy
@@ -524,10 +526,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0432-all-oone-data-structure) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0432-all-oone-data-structure) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Rolling Hash
 |  |

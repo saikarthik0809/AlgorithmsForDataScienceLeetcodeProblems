@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
+| [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0420-strong-password-checker) |
 | [0466-count-the-repetitions](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0472-concatenated-words) |
+| [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Dynamic Programming
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0472-concatenated-words) |
+| [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0321-create-maximum-number) |
+| [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Tree
 |  |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
 ## Monotonic Stack
 |  |
 | ------- |

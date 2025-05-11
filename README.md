@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0458-poor-pigs) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0458-poor-pigs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0458-poor-pigs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -577,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->

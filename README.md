@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0312-burst-balloons) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 ## Binary Indexed Tree
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0220-contains-duplicate-iii) |
 ## Geometry
 |  |
 | ------- |
@@ -481,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->

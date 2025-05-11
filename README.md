@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0517-super-washing-machines) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0517-super-washing-machines) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Divide and Conquer
 |  |

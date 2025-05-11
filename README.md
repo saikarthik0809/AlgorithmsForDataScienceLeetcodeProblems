@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0458-poor-pigs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0479-largest-palindrome-product) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -594,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0458-poor-pigs) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->

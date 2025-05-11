@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Hash Table
 |  |
 | ------- |

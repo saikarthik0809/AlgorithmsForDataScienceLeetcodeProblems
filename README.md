@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0514-freedom-trail) |
+| [0726-number-of-atoms](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0726-number-of-atoms) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Dynamic Programming
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0480-sliding-window-median) |
+| [0726-number-of-atoms](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0726-number-of-atoms) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Greedy
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0502-ipo) |
+| [0726-number-of-atoms](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0726-number-of-atoms) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
 |  |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0321-create-maximum-number) |
 | [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
+| [0726-number-of-atoms](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0726-number-of-atoms) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Tree
 |  |

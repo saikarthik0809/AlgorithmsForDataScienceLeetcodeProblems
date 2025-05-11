@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 | [2121-find-if-path-exists-in-graph](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0407-trapping-rain-water-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 ## String
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Ordered Set
 |  |

@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0336-palindrome-pairs) |
 | [0416-partition-equal-subset-sum](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0336-palindrome-pairs) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2389-design-a-text-editor](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2389-design-a-text-editor) |
 ## Dynamic Programming
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0268-missing-number) |
+| [0336-palindrome-pairs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0336-palindrome-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Greedy
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0336-palindrome-pairs) |
 ## Backtracking
 |  |
 | ------- |

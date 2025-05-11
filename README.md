@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0517-super-washing-machines) |
+| [0546-remove-boxes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0546-remove-boxes) |
 | [0750-contain-virus](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0750-contain-virus) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2479-meeting-rooms-iii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0514-freedom-trail) |
+| [0546-remove-boxes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0546-remove-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/saikarthik0809/AlgorithmsForDataScienceLeetcodeProblems/tree/master/0546-remove-boxes) |
 ## Monotonic Stack
 |  |
 | ------- |
